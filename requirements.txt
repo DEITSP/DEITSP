@@ -1,5 +1,6 @@
 Cython==0.29.33
 numpy==1.21.6
+Python==3.7.16
 pytorch_lightning==1.7.7
 scipy==1.7.3
 torch==1.12.1+cu113
