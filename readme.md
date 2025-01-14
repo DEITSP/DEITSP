@@ -1,6 +1,13 @@
 # An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem
 Official implementation of SIGKDD 2025 paper: "An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem".
-
+```
+@inproceedings{Wang2025,
+  title={An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem},
+  author={Mingzhao Wang, You Zhou, Zhiguang Cao, Yubin Xiao, Xuan Wu, Wei Pang, Yuan Jiang, Hui Yang, Peng Zhao, Yuanshu Li },
+  booktitle={Proceedings of the 31th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  year={2025}
+}
+```
 ## Dependencies
 + Cython==0.29.33
 + numpy==1.21.6
