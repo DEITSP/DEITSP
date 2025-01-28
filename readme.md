@@ -3,7 +3,7 @@ Official implementation of SIGKDD 2025 paper: "An Efficient Diffusion-based Non-
 ```
 @inproceedings{Wang2025,
   title={An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem},
-  author={Mingzhao Wang, You Zhou, Zhiguang Cao, Yubin Xiao, Xuan Wu, Wei Pang, Yuan Jiang, Hui Yang, Peng Zhao, Yuanshu Li },
+  author={Wang, Mingzhao and Zhou, You and Cao, Zhiguang and Xiao, Yubin and Wu, Xuan and Pang, Wei and Jiang, Yuan and Yang, Hui and Zhao, Peng and Li, Yuanshu},
   booktitle={Proceedings of the 31th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
   year={2025}
 }
